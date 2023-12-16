@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.image{
+     background-image: url('./assets/pexels-porapak-apichodilok-346694.jpg');
+}
